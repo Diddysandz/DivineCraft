@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DivineCraft",
+  "name": "DivineCraft",
+  "description": "This mod is all about the Gods, there are only somethings in the mod so far, but more is coming...",
+  "version": "{1.0}",
+  "mcversion": "{1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Diddysandz"],
+  "credits": "to the people who inspired me to make this mod :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
